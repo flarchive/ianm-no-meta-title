@@ -1,0 +1,38 @@
+{
+  "name": "ianm/no-meta-title",
+  "description": "Removes Forum name from html title meta",
+  "keywords": [
+    "flarum"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/imorland/no-meta-title/issues",
+    "source": "https://github.com/imorland/no-meta-title",
+    "forum": "https://discuss.flarum.org/d/27924"
+  },
+  "require": {
+    "flarum/core": "^1.2.0"
+  },
+  "authors": [
+    {
+      "name": "IanM",
+      "homepage": "https://discuss.flarum.org/u/ianm",
+      "role": "Developer"
+    }
+  ],
+  "extra": {
+    "flarum-extension": {
+      "title": "No Meta Title",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-ban",
+        "backgroundColor": "#0072e3",
+        "color": "#fff"
+      }
+    },
+    "flagrow": {
+      "discuss": "https://discuss.flarum.org/d/27924"
+    }
+  }
+}
