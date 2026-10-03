@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of ianm/no-meta-title.** Not for installation: use [Packagist](https://packagist.org/packages/ianm/no-meta-title) or the [upstream repository](https://github.com/imorland/no-meta-title).
 
-**0** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/ianm-no-meta-title/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**4** versions archived · Latest: [`1.1.0`](https://github.com/flarchive/ianm-no-meta-title/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-06-27 | `^1.0.3` | [Browse](https://github.com/flarchive/ianm-no-meta-title/tree/archive/v1.0.0) |
+| `1.0.1` | 2021-06-27 | `^1.0.3` | [Browse](https://github.com/flarchive/ianm-no-meta-title/tree/archive/v1.0.1) |
+| `1.0.2` | 2022-06-08 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-no-meta-title/tree/archive/v1.0.2) |
+| `1.1.0` | 2022-08-12 | `^1.2.0` | [Browse](https://github.com/flarchive/ianm-no-meta-title/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/ianm-no-meta-title.json](https://github.com/flarchive/archive-index/blob/main/packages/ianm-no-meta-title.json)
 
